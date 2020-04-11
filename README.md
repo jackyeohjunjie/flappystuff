@@ -1,2 +1,2 @@
 # flappystuff
-This is a flappybird clone, still to add collision detection and scoring system. 
+This is a flappybird clone for the android app
